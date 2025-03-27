@@ -35,12 +35,11 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I'm a 15 years old school student.
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about anything related to Python, JS, React, HTML, Firebase.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Story Books, Playing Chess , Playing games.
 - 📫 How to reach me: contact@kavindunimsara.com
-- 📝 Portfolio: https://kavindunimsara.com
+- 📝 Portfolio: https://github.com/itzkavindu
 <!--- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)-->
 
 ### 🛠️ Languages and Tools:
