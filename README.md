@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=itzkavindu)
 
 <br/>
-<a href="https://www.instagram.com/itzsid_lk">
+<a href="https://www.instagram.com/kavi_.nd">
   <img align="left" alt="Kavindu's Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 
