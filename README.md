@@ -1,5 +1,6 @@
- Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Kavindu](https://github.com/itzkavindu) 👨‍💻
-![](https://komarev.com/ghpvc/?username=itzkavindu)
+# Kavindu Nimsara
+
+**Self-taught software developer from Sri Lanka**, focused on building scalable, real-world applications. I’m proficient in a range of programming languages and technologies, and currently working on strengthening my full-stack and mobile development skills.
 
 <br/>
 <a href="https://www.instagram.com/kavi_.nd">
@@ -23,54 +24,31 @@
 
 <br/>
 
-<p>
-A Skilled Programmer 🚀 from Sri Lanka. Always working on some project or learning something new!
-<br/>
-These are the programming languages I know the most : Python, HTML, CSS, C#, C++, Ruby, PHP, JavaScript
-<br/>  
-Things I am currently experimenting with : React JS 
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
-</p>
 
-### ✨ Quick Facts
+## 🧠 Core Competencies
 
-- 🌱 I’m currently learning C#.
-- 💬 Ask me about anything related to Python, JS, React, HTML, Firebase.(After googling it 😜😌)
-- 🎿 Hobbies other than coding : Reading Story Books, Playing Chess , Playing games.
-- 📫 How to reach me: contact@kavindunimsara.com
-- 📝 Portfolio: https://github.com/itzkavindu
-<!--- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)-->
+- **Languages:** Python, JavaScript, C#, C++, PHP, Dart, Kotlin
+- **Frontend:** React JS, React Native (Expo), Flutter
+- **Backend:** Node.js, NestJS, Python (Flask)
+- **Databases:** Firestore, MongoDB
+- **Tools & Platforms:** Git, GitHub, Firebase, Netlify, VS Code, JetBrain IDEs, Azure, G.Cloud, AWS
 
-### 🛠️ Languages and Tools:
+## 🎯 Interests
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MicrosoftAzure](https://img.shields.io/badge/-azure-black?style=flat-square&logo=microsoftazure)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+- Full-stack application development  
+- Mobile development with React Native  
+- Clean code, performance, and scalable architecture  
+- Open-source contributions and freelance opportunities
 
+## 📫 Contact
 
-### 🐍 My Contribution Graph Gets Eaten By a Snake 
-![Snake animation](https://github.com/itzkavindu/itzkavindu/blob/output/github-contribution-grid-snake.svg)
+- **Email:** [contact@kavindunimsara.com](mailto:contact@kavindunimsara.com)  
+- **Portfolio:** [github.com/itzkavindu](https://github.com/itzkavindu)  
+- **Twitter:** [@kavindu_sl](https://twitter.com/kavindu_sl)  
+- **Instagram:** [kavi_.nd](https://instagram.com/itzsid_lk)  
+- **Stack Overflow:** [Kavindu Nimsara](https://stackoverflow.com/users/16917902/kavindu-nimsara)
 
+---
 
-### 👣 Next Steps
+Thank you for visiting. I'm always open to connecting with like-minded developers, collaborating on meaningful projects, and contributing to the open-source community.
 
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
-
-❤️ Offer work : Send the offer on [![Gmail Badge](https://img.shields.io/badge/-contact@kavindunimsara.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kavindunimsara.com)](mailto:contact@kavindunimsara.com)
-
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Instagram-kavindu?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/itzsid_lk)](https://www.instagram.com/itzsid_lk)
