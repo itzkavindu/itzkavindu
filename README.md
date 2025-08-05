@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 
-- **Email:** [contact@kavindunimsara.com](mailto:contact@kavindunimsara.com)  
+- **Email:** [hello@kavindu.tech](mailto:hello@kavindu.tech)  
 - **Portfolio:** [github.com/itzkavindu](https://github.com/itzkavindu)  
 - **Twitter:** [@kavindu_sl](https://twitter.com/kavindu_sl)  
 - **Instagram:** [kavi_.nd](https://instagram.com/itzsid_lk)  
